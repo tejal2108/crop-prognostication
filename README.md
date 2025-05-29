@@ -34,15 +34,6 @@ This system helps farmers make informed decisions about crop selection by analyz
 * **ML Libraries**: Scikit-learn, Pandas, NumPy
 * **IDE**: Visual Studio Code
 
-## 📸 UI Snapshots
-
-* **Crop Prediction Output**
-* **Pest Info Panel**
-* **Market Price View**
-* **Admin: Add Scheme**
-* **Admin: Add Crop Price**
-* **Admin: User List**
-
 ## ✅ Conclusion & Future Scope
 
 The system enhances agricultural decision-making by suggesting profitable crops based on environmental parameters. It empowers farmers with market data, pest alerts, and scheme information.
